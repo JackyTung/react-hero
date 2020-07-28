@@ -19,8 +19,8 @@ const BaseRouter = () => {
       <BrowserRouter history={history} basename={process.env.PUBLIC_URL}>
         <Suspense fallback={<Progress message="Loading..." />}>
           <Switch>
-            <Route path="/hero" component={HeroRouter} />
-            <Route path="/" render={() => <Redirect to="/hero" />} />
+            <Route path="/heroes" component={HeroRouter} />
+            <Route path="/" render={() => <Redirect to="/heroes" />} />
           </Switch>
         </Suspense>
       </BrowserRouter>
