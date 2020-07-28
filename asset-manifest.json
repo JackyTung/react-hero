@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/react-hero/static/js/main.172559bb.chunk.js",
+    "main.js.map": "/react-hero/static/js/main.172559bb.chunk.js.map",
+    "runtime-main.js": "/react-hero/static/js/runtime-main.61c00824.js",
+    "runtime-main.js.map": "/react-hero/static/js/runtime-main.61c00824.js.map",
+    "static/js/2.88b323c0.chunk.js": "/react-hero/static/js/2.88b323c0.chunk.js",
+    "static/js/2.88b323c0.chunk.js.map": "/react-hero/static/js/2.88b323c0.chunk.js.map",
+    "static/js/3.76fa5551.chunk.js": "/react-hero/static/js/3.76fa5551.chunk.js",
+    "static/js/3.76fa5551.chunk.js.map": "/react-hero/static/js/3.76fa5551.chunk.js.map",
+    "static/js/4.dd9ad9c3.chunk.js": "/react-hero/static/js/4.dd9ad9c3.chunk.js",
+    "static/js/4.dd9ad9c3.chunk.js.map": "/react-hero/static/js/4.dd9ad9c3.chunk.js.map",
+    "index.html": "/react-hero/index.html",
+    "precache-manifest.2420ce9a0853f186887591ee8ccad085.js": "/react-hero/precache-manifest.2420ce9a0853f186887591ee8ccad085.js",
+    "service-worker.js": "/react-hero/service-worker.js",
+    "static/js/2.88b323c0.chunk.js.LICENSE": "/react-hero/static/js/2.88b323c0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61c00824.js",
+    "static/js/2.88b323c0.chunk.js",
+    "static/js/main.172559bb.chunk.js"
+  ]
+}
